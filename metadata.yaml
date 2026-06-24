@@ -1,0 +1,5 @@
+name: "图片审查助手"
+version: "1.0.0"
+description: "自动审核群聊图片，识别色情暴露内容并配合群管撤回禁言"
+author: "你的名字"
+main: "main.py"
