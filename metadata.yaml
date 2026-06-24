@@ -1,5 +1,0 @@
-name: "图片审查助手"
-version: "2.0.0"
-description: "多模态 AI 审核图片，自动检测色情/暴露内容，配合群管撤回禁言"
-author: "你的名字"
-main: "main.py"
