@@ -1,0 +1,6 @@
+name: "石土查简"
+version: "1.0.0"
+description: "这是一个简单的 AstrBot 测试插件"
+author: "你的名字"
+main: "main.py"
+dependencies: []
