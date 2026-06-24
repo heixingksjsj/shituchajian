@@ -1,0 +1,22 @@
+{
+  "api_url": {
+    "type": "string",
+    "description": "API 地址 (例如 https://api.siliconflow.cn/v1/chat/completions)",
+    "default": ""
+  },
+  "api_key": {
+    "type": "string",
+    "description": "你的 API Key",
+    "default": ""
+  },
+  "model_name": {
+    "type": "string",
+    "description": "视觉模型名 (例如 Qwen/Qwen2-VL-7B-Instruct)",
+    "default": ""
+  },
+  "mute_seconds": {
+    "type": "int",
+    "description": "违规禁言时长（秒）",
+    "default": 60
+  }
+}
