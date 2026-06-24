@@ -1,0 +1,5 @@
+name: "标准图片审查助手"
+version: "1.0.0"
+description: "带独立配置面板的官方标准架构插件"
+author: "你的名字"
+main: "handlers"
